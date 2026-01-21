@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @akshaypharmd
-- 👀 I’m interested in infodemiology
-- 🌱 I’m currently learning Infodemiology
-- 💞️ I’m looking to collaborate on Data vizualization
-- 📫 How to reach me akshaypharmd@gmail.com
-
-<!---
-akshaypharmd/akshaypharmd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi, I’m Akshaya
+I’m an Associate Professor of Epidemiology working at the intersection of population health, digital data, and applied AI.
+My work focuses on turning messy, large-scale digital signals into policy-relevant public health evidence—with an emphasis on spatial access, health misinformation, pharmacoepidemiology, and real-world surveillance.
+This GitHub hosts fully reproducible research code, methodological prototypes, and visualization tools used in academic publications, grant proposals, and public-facing dashboards.
