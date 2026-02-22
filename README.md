@@ -15,7 +15,7 @@ B. Core Libraries: pandas, numpy, geopandas, scikit-learn, statsmodels, PyTrends
 C. Mapping & Visualization: folium, plotly, kepler.gl, matplotlib
 D. Modeling: regression, APC models, time-series, network & hypergraph analytics.
 
-What You’ll Find HerE?
+What You’ll Find Here?
 a. Reproducible pipelines for digital health surveillance
 b. Scripts for API data collection and cleaning
 c. Spatial access and distance-based health equity metrics
